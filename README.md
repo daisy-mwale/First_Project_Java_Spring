@@ -20,10 +20,10 @@ in the browser.
 ---
 
 ## Project Structure
-- `src/main/java/pl/edu/vistula/first_java_spring_project/Controller/HelloController.java`
+- `src/main/java/pl/edu/vistula/First_Project_Java_Spring/Controller/HelloController.java`
   – REST controller handling HTTP requests
 
-- `src/main/java/pl/edu/vistula/first_java_spring_project/FirstJavaSpringProjectApplication.java`
+- `src/main/java/pl/edu/vistula/First_Project_Java_Spring/FirstProjectJavaSpringApplication.java`
   – main Spring Boot application class
 
 - `src/main/resources/templates/greeting.html`
@@ -44,7 +44,7 @@ in the browser.
 1. Open the project in IntelliJ IDEA
 2. Make sure Java and Maven are installed
 3. Run the main class:
-   `FirstJavaSpringProjectApplication`
+   `FirstProjectJavaSpringApplication`
 4. Application will start on:
    http://localhost:8080/greeting
 
